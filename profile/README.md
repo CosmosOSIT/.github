@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/CosmosOSIT/Cosmos/master/cosmos.png" width="250"></img>
+# Cosmos
 
 [![Stato di costruzione](https://ci.appveyor.com/api/projects/status/34f25hon5cjb94qi?svg=true)](https://ci.appveyor.com/project/PtoBuon/cosmos-5hekg)
 
