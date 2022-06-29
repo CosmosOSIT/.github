@@ -1,7 +1,5 @@
 # Cosmos
 
-[![Stato di costruzione](https://ci.appveyor.com/api/projects/status/34f25hon5cjb94qi?svg=true)](https://ci.appveyor.com/project/PtoBuon/cosmos-5hekg)
-
 Cosmos è un "kit di costruzione" per SO. Fai il tuo sistema operativo con linguaggi gestiti come C#, VB.NET, e altri!
 
 Per avere informazioni su come usare Cosmos, visita il [sito web di Cosmos](http://www.gocosmos.org).
